@@ -25,12 +25,12 @@ GenAi-Docq is an intelligent document question-answering system powered by Gener
 
 ## 🛠 Tech Stack
 
-- 🐍 Python 3.x
-- 🤗 HuggingFace Transformers
-- 🧠 OpenAI / LangChain (optional)
-- 🖼️ Streamlit / Flask
-- 📄 PyMuPDF / Docx2txt
-- 🔍 FAISS (if vector search used)
+- 🐍 Python 3.x  
+- 🤗 HuggingFace Transformers  
+- 🧠 OpenAI / LangChain (optional)  
+- 🖼️ Streamlit / Flask  
+- 📄 PyMuPDF / Docx2txt  
+- 🔍 FAISS (if vector search used)  
 
 ---
 
